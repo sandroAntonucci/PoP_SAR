@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\argo\\Desktop\\pop_sar\\pop_sar\\pop_sar.csproj",
+      "projectUniqueName": "D:\\SandroAntonucci\\PoP_SAR\\pop_sar\\pop_sar\\pop_sar.csproj",
       "projectName": "pop_sar",
-      "projectPath": "C:\\Users\\argo\\Desktop\\pop_sar\\pop_sar\\pop_sar.csproj",
+      "projectPath": "D:\\SandroAntonucci\\PoP_SAR\\pop_sar\\pop_sar\\pop_sar.csproj",
       "packagesPath": "C:\\Users\\argo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\argo\\Desktop\\pop_sar\\pop_sar\\obj\\",
+      "outputPath": "D:\\SandroAntonucci\\PoP_SAR\\pop_sar\\pop_sar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\argo\\AppData\\Roaming\\NuGet\\NuGet.Config",

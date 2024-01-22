@@ -1,0 +1,15 @@
+D:\SandroAntonucci\PoP_SAR\pop_sar\pop_sar\bin\Debug\net8.0\pop_sar.exe
+D:\SandroAntonucci\PoP_SAR\pop_sar\pop_sar\bin\Debug\net8.0\pop_sar.deps.json
+D:\SandroAntonucci\PoP_SAR\pop_sar\pop_sar\bin\Debug\net8.0\pop_sar.runtimeconfig.json
+D:\SandroAntonucci\PoP_SAR\pop_sar\pop_sar\bin\Debug\net8.0\pop_sar.dll
+D:\SandroAntonucci\PoP_SAR\pop_sar\pop_sar\bin\Debug\net8.0\pop_sar.pdb
+D:\SandroAntonucci\PoP_SAR\pop_sar\pop_sar\obj\Debug\net8.0\pop_sar.GeneratedMSBuildEditorConfig.editorconfig
+D:\SandroAntonucci\PoP_SAR\pop_sar\pop_sar\obj\Debug\net8.0\pop_sar.AssemblyInfoInputs.cache
+D:\SandroAntonucci\PoP_SAR\pop_sar\pop_sar\obj\Debug\net8.0\pop_sar.AssemblyInfo.cs
+D:\SandroAntonucci\PoP_SAR\pop_sar\pop_sar\obj\Debug\net8.0\pop_sar.csproj.CoreCompileInputs.cache
+D:\SandroAntonucci\PoP_SAR\pop_sar\pop_sar\obj\Debug\net8.0\pop_sar.sourcelink.json
+D:\SandroAntonucci\PoP_SAR\pop_sar\pop_sar\obj\Debug\net8.0\pop_sar.dll
+D:\SandroAntonucci\PoP_SAR\pop_sar\pop_sar\obj\Debug\net8.0\refint\pop_sar.dll
+D:\SandroAntonucci\PoP_SAR\pop_sar\pop_sar\obj\Debug\net8.0\pop_sar.pdb
+D:\SandroAntonucci\PoP_SAR\pop_sar\pop_sar\obj\Debug\net8.0\pop_sar.genruntimeconfig.cache
+D:\SandroAntonucci\PoP_SAR\pop_sar\pop_sar\obj\Debug\net8.0\ref\pop_sar.dll

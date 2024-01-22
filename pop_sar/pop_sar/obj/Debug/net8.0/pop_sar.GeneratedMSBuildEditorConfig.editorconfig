@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = pop_sar
-build_property.ProjectDir = C:\Users\argo\Desktop\pop_sar\pop_sar\
+build_property.ProjectDir = D:\SandroAntonucci\PoP_SAR\pop_sar\pop_sar\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
