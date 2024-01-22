@@ -14,9 +14,12 @@ public class PopProject
         const string MsgInputYear = "Introdueix l'any: ";
         const string MsgInvalidInput = "El format no és correcte";
         const string MsgValidInput = "La data és correcta";
+        const string MsgMenu = "Menu:\n\nA.Saltar\nB.Córrer\nC.Ajupir-se\nD.Amagar-se\n\n - ";
 
         // Creació d'ints a una línia i en anglès
         int day, month, year;
+
+        string option;
 
         // Es guarda el dia el mes i l'any
         Console.Write(MsgInputDay);
@@ -29,11 +32,21 @@ public class PopProject
         year = Convert.ToInt32(Console.ReadLine());
 
         // Operador ternari per al missatge a l'usuari
-        Console.WriteLine(validate(day, month, year) ? MsgValidInput : MsgInvalidInput);
-    
+        Console.WriteLine(Validate(day, month, year) ? MsgValidInput : MsgInvalidInput);
+
+
+        //Menú
+
+        // Es guarda la opció escollida
+        Console.Write(MsgMenu);
+        option = Console.ReadLine();
+
+        // Es printa per pantalla la opció o si no és vàlida
+        Console.Write(CheckMenu(option.ToUpper()));
+
     }
 
-    public static bool validate(int day, int month, int year)
+    public static bool Validate(int day, int month, int year)
     {
 
         // Es fa tot a un mateix if
@@ -81,5 +94,31 @@ public class PopProject
         // Es fa el return directament comprovant si el dia sobrepassa els dies totals del mes
         return !(day > totalDaysMonth);
 
+    }
+
+    // Comprova quina opció del menú es, si no es cap retorna invàlid
+    public static string CheckMenu(string option)
+    {
+
+        const string MsgJump = "Saltar";
+        const string MsgRun = "Córrer";
+        const string MsgCrouch = "Ajupir-se";
+        const string MsgHide = "Amagar-se";
+        const string MsgInvalid = "Aquesta opció no és vàlida";
+
+        // Switch per comprovar menú
+        switch (option)
+        {
+            case "A":
+                return MsgJump;
+            case "B":
+                return MsgRun;
+            case "C":
+                return MsgCrouch;
+            case "D":
+                return MsgHide;
+        }
+
+        return MsgInvalid;
     }
 }
