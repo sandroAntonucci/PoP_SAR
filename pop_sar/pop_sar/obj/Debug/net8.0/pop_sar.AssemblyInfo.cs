@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pop_sar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2f1fe3e3a15af5c33ce076a487a3f357f925ed1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2430ed8969286a14a703a8f04359c5e86f3228fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("pop_sar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pop_sar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
